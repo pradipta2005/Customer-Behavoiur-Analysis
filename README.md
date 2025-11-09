@@ -1,6 +1,6 @@
 # Customer Behavior Analysis — Premium Dashboard & EDA
 
-![Customer Behavior Dashboard (Image 1)](images/dashboard.png)
+![Customer Behavior Dashboard (Image 1)](dashboard_cba.png)
 
 Professional, skill-focused repository showcasing an end-to-end exploratory data analysis (EDA) and interactive dashboard built to surface actionable insights into customer shopping behavior.
 
