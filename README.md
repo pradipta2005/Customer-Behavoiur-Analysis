@@ -139,8 +139,3 @@ Author: pradipta2005
 For questions or collaboration requests, open an issue on this repository or reach out via GitHub profile.
 
 ---
-
-Notes
------
-- The included screenshot in this README references Image 1. To reproduce the exact dashboard layout, run analysis.ipynb and the associated dashboard script (if present) and store the exported dashboard image in images/dashboard.png.
-- If you would like, I can generate a polished `requirements.txt` and an optional Streamlit app wrapper for this notebook.
